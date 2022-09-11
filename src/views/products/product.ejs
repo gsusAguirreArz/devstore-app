@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+
+    <%- include('../partials/head', {page_title: `Product: ${product.id}`})  %> 
+
+<body>
+
+    <%- include('../partials/header')  %> 
+
+    <main class="contenedor">
+        <h1><%= product.name %> </h1>
+        <div class="camisa">
+            <img src="images/<%= product.image %>" alt="imagen del producto" class="camisa__imagen">
+            <div class="camisa__contenido">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique, accusantium. Voluptas, laudantium voluptatum quae, optio velit itaque tempore amet sed autem animi commodi consequatur omnis ducimus reprehenderit accusamus maxime dignissimos.</p>
+                <p class="producto__precio">$<%= product.price %></p>
+                <!-- <form action="/cart/update" method="post" class="formulario">
+                    <input type="hidden" name="id" value="<%= product.id %>" />
+                    <input class="formulario__campo" type="number" name="quantity" placeholder="Cantidad" min="0" value="1">
+                </form> -->
+                <form class="formulario" action="/cart/add" method="post">
+                    <select class="formulario__campo">
+                        <option disabled>--Select Size--</option>
+                        <option value="S">S</option>
+                        <option value="M" selected>M</option>
+                        <option value="L">L</option>
+                    </select>
+                    <input type="hidden" name="id" value="<%= product.id %>" />
+                    <input class="formulario__submit" type="submit" value="Agregar al Carrito">
+                </form>
+            </div>
+        </div>
+    </main>
+
+    <%- include('../partials/footer')  %> 
+
+</body>
+</html>

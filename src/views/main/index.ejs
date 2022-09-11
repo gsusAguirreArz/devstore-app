@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+
+    <%- include('../partials/head', {page_title: "DevShop"})  %> 
+
+<body>
+
+    <%- include('../partials/header')  %> 
+
+    <main class="contenedor">
+        <h1>Featured Products</h1>
+        <div class="grid">
+            <% for ( let product of products ) { %>
+                <div class="producto">
+                    <a href="/<%= product.id %>">
+                        <img loading="lazy" class="producto__imagen" src="images/<%= product.image %>" alt="imagen camisa">
+                        <div class="producto_informacion">
+                            <p class="producto__nombre"><%= product.name %></p>
+                            <p class="producto__precio">$<%= product.price %></p>
+                        </div>
+                    </a>
+                </div> <!-- .producto -->
+            <% } %> 
+            <div class="grafico grafico--camisas"></div>
+            <div class="grafico grafico--node"></div>
+        </div>
+    </main>
+
+    <%- include('../partials/footer')  %> 
+
+</body>
+</html>

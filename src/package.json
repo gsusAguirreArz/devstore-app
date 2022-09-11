@@ -1,0 +1,34 @@
+{
+  "name": "basicstoreapp",
+  "version": "1.0.0",
+  "description": "store with payment gateaway",
+  "main": "./bin/www",
+  "scripts": {
+    "start:dev": "NODE_ENV=dev nodemon -L ./bin/www",
+    "start:prod": "NODE_ENV=prod node ./bin/www"
+  },
+  "keywords": [
+    "NodeJs",
+    "Javascript",
+    "MercadoPago",
+    "EJS",
+    "Ecommerce"
+  ],
+  "author": "Jesus Aguirre",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "4.3.4",
+    "dotenv": "16.0.2",
+    "ejs": "3.1.8",
+    "express": "4.18.1",
+    "express-session": "1.17.3",
+    "http": "0.0.1-security",
+    "http-errors": "2.0.0",
+    "ip": "1.1.8",
+    "method-override": "3.0.0",
+    "winston": "3.8.2"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.19"
+  }
+}

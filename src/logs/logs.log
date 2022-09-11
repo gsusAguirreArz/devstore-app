@@ -1,0 +1,336 @@
+[winston] [22-09-10 12:51:09] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 12:51:09] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 12:57:47] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 12:57:47] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 12:58:44] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 12:58:44] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 12:59:06] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 12:59:06] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 13:00:19] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 13:00:19] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 13:00:24] info: GET /, fetching home page
+[winston] [22-09-10 13:06:58] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 13:06:58] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 13:07:01] info: GET /, fetching home page
+[winston] [22-09-10 13:07:56] info: GET /, fetching home page
+[winston] [22-09-10 13:11:38] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 13:11:38] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 13:11:42] info: GET /, fetching home page
+[winston] [22-09-10 13:11:45] info: GET /, fetching home page
+[winston] [22-09-10 13:11:46] info: GET /about, fetching home page
+[winston] [22-09-10 13:12:13] info: GET /about, fetching home page
+[winston] [22-09-10 13:13:46] info: GET /about, fetching home page
+[winston] [22-09-10 13:13:47] info: GET /, fetching home page
+[winston] [22-09-10 13:13:48] info: GET /about, fetching home page
+[winston] [22-09-10 13:13:49] info: GET /, fetching home page
+[winston] [22-09-10 13:14:12] info: GET /, fetching home page
+[winston] [22-09-10 13:14:12] info: GET /about, fetching home page
+[winston] [22-09-10 13:14:13] info: GET /, fetching home page
+[winston] [22-09-10 13:14:13] info: GET /about, fetching home page
+[winston] [22-09-10 13:14:13] info: GET /, fetching home page
+[winston] [22-09-10 13:14:14] info: GET /, fetching home page
+[winston] [22-09-10 13:14:14] info: GET /, fetching home page
+[winston] [22-09-10 13:14:14] info: GET /, fetching home page
+[winston] [22-09-10 13:14:15] info: GET /, fetching home page
+[winston] [22-09-10 13:14:15] info: GET /, fetching home page
+[winston] [22-09-10 13:14:29] info: GET /about, fetching home page
+[winston] [22-09-10 13:14:34] info: GET /about, fetching home page
+[winston] [22-09-10 13:14:35] info: GET /, fetching home page
+[winston] [22-09-10 13:14:35] info: GET /, fetching home page
+[winston] [22-09-10 13:14:36] info: GET /, fetching home page
+[winston] [22-09-10 13:14:37] info: GET /about, fetching home page
+[winston] [22-09-10 13:14:37] info: GET /, fetching home page
+[winston] [22-09-10 13:14:37] info: GET /about, fetching home page
+[winston] [22-09-10 13:14:38] info: GET /, fetching home page
+[winston] [22-09-10 13:14:38] info: GET /, fetching home page
+[winston] [22-09-10 13:14:39] info: GET /, fetching home page
+[winston] [22-09-10 13:14:39] info: GET /about, fetching home page
+[winston] [22-09-10 13:14:39] info: GET /, fetching home page
+[winston] [22-09-10 13:14:40] info: GET /about, fetching home page
+[winston] [22-09-10 13:14:40] info: GET /, fetching home page
+[winston] [22-09-10 13:14:40] info: GET /about, fetching home page
+[winston] [22-09-10 13:14:41] info: GET /, fetching home page
+[winston] [22-09-10 13:14:41] info: GET /about, fetching home page
+[winston] [22-09-10 13:14:41] info: GET /, fetching home page
+[winston] [22-09-10 13:14:42] info: GET /about, fetching home page
+[winston] [22-09-10 13:14:42] info: GET /, fetching home page
+[winston] [22-09-10 13:23:33] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 13:23:33] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 13:28:32] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 13:28:32] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 13:31:33] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 13:31:33] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 13:33:27] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 13:33:27] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 13:35:32] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 13:35:32] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 13:36:01] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 13:36:01] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 13:37:05] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 13:37:05] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 13:37:38] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 13:37:38] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 13:40:01] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 13:40:01] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 13:40:16] info: GET /, fetching home page
+[winston] [22-09-10 13:40:25] info: GET /about, fetching home page
+[winston] [22-09-10 13:40:25] info: GET /, fetching home page
+[winston] [22-09-10 13:54:57] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 13:54:57] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 13:55:04] info: GET /, fetching home page
+[winston] [22-09-10 13:55:05] info: GET /, fetching home page
+[winston] [22-09-10 13:55:05] info: GET /, fetching home page
+[winston] [22-09-10 13:55:06] info: GET /products/2, fetching product with id: 2
+[winston] [22-09-10 13:55:16] info: GET /products/1, fetching product with id: 1
+[winston] [22-09-10 13:55:19] info: GET /about, fetching home page
+[winston] [22-09-10 13:55:20] info: GET /, fetching home page
+[winston] [22-09-10 13:55:20] info: GET /, fetching home page
+[winston] [22-09-10 13:55:39] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 13:55:39] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 13:55:40] info: GET /products/2, fetching product with id: 2
+[winston] [22-09-10 13:55:56] info: GET /products/2, fetching product with id: 2
+[winston] [22-09-10 13:55:57] info: GET /products/2, fetching product with id: 2
+[winston] [22-09-10 13:56:10] info: GET /products/1, fetching product with id: 1
+[winston] [22-09-10 13:57:08] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 13:57:08] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 13:57:09] info: GET /products/3, fetching product with id: 3
+[winston] [22-09-10 13:57:18] info: GET /products/1, fetching product with id: 1
+[winston] [22-09-10 13:57:21] info: GET /products/2, fetching product with id: 2
+[winston] [22-09-10 13:57:41] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 13:57:41] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 13:57:43] info: GET /products/2, fetching product with id: 2
+[winston] [22-09-10 13:57:43] info: [object Object]
+[winston] [22-09-10 13:58:05] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 13:58:05] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 13:58:36] info: GET /products/2, fetching product with id: 2
+[winston] [22-09-10 13:58:38] info: GET /products/1, fetching product with id: 1
+[winston] [22-09-10 13:59:00] info: GET /products/3, fetching product with id: 3
+[winston] [22-09-10 13:59:02] info: GET /products/4, fetching product with id: 4
+[winston] [22-09-10 14:01:24] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 14:01:24] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 14:02:30] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 14:02:30] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 14:02:31] info: GET /, fetching home page
+[winston] [22-09-10 14:02:34] info: GET /products/2, fetching product with id: 2
+[winston] [22-09-10 14:02:36] info: GET /products/1, fetching product with id: 1
+[winston] [22-09-10 14:03:21] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 14:03:21] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 14:03:22] info: GET /products/2, fetching product with id: 2
+[winston] [22-09-10 14:03:25] info: GET /about, fetching home page
+[winston] [22-09-10 14:03:26] info: GET /, fetching home page
+[winston] [22-09-10 14:03:27] info: GET /about, fetching home page
+[winston] [22-09-10 14:03:27] info: GET /, fetching home page
+[winston] [22-09-10 14:03:47] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 14:03:47] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 14:03:50] info: GET /products/9, fetching product with id: 9
+[winston] [22-09-10 14:04:13] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 14:04:13] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 14:04:14] info: GET /products/9, fetching product with id: 9
+[winston] [22-09-10 14:04:15] info: GET /products/9, fetching product with id: 9
+[winston] [22-09-10 14:04:16] info: GET /products/8, fetching product with id: 8
+[winston] [22-09-10 14:04:47] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 14:04:47] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 14:04:49] info: GET /products/8, fetching product with id: 8
+[winston] [22-09-10 14:04:53] info: GET /about, fetching home page
+[winston] [22-09-10 14:04:54] info: GET /, fetching home page
+[winston] [22-09-10 14:05:04] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 14:05:04] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 14:05:05] info: GET /products/2, fetching product with id: 2
+[winston] [22-09-10 14:05:07] info: GET /products/1, fetching product with id: 1
+[winston] [22-09-10 14:05:35] info: GET /products/1, fetching product with id: 1
+[winston] [22-09-10 14:05:37] info: GET /products/1, fetching product with id: 1
+[winston] [22-09-10 14:07:03] info: GET /products/3, fetching product with id: 3
+[winston] [22-09-10 14:09:13] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 14:09:13] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 14:09:15] info: GET /products/2, fetching product with id: 2
+[winston] [22-09-10 14:09:30] info: GET /products/2, fetching product with id: 2
+[winston] [22-09-10 14:10:08] info: GET /products/100, fetching product with id: 100
+[winston] [22-09-10 14:10:12] info: GET /about, fetching home page
+[winston] [22-09-10 14:10:13] info: GET /, fetching home page
+[winston] [22-09-10 14:10:14] info: GET /about, fetching home page
+[winston] [22-09-10 14:10:29] info: GET /, fetching home page
+[winston] [22-09-10 14:10:29] info: GET /products/2, fetching product with id: 2
+[winston] [22-09-10 14:10:37] info: GET /products/2, fetching product with id: 2
+[winston] [22-09-10 14:10:38] info: GET /products/2, fetching product with id: 2
+[winston] [22-09-10 14:11:54] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 14:11:54] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 14:11:57] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 14:11:57] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 14:12:06] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 14:12:06] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 14:13:37] info: GET /, fetching home page
+[winston] [22-09-10 14:13:38] info: GET /products/2, fetching product with id: 2
+[winston] [22-09-10 14:13:41] info: GET /about, fetching home page
+[winston] [22-09-10 14:13:48] info: GET /, fetching home page
+[winston] [22-09-10 14:13:49] info: GET /products/2, fetching product with id: 2
+[winston] [22-09-10 14:14:44] info: GET /products/2, fetching product with id: 2
+[winston] [22-09-10 14:14:44] info: GET /products/2, fetching product with id: 2
+[winston] [22-09-10 14:14:45] info: GET /products/2, fetching product with id: 2
+[winston] [22-09-10 14:15:15] info: GET /, fetching home page
+[winston] [22-09-10 14:15:15] info: GET /products/2, fetching product with id: 2
+[winston] [22-09-10 14:17:02] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 14:17:02] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 14:17:07] info: GET /products/1, fetching product with id: 1
+[winston] [22-09-10 14:17:11] info: GET /about, fetching home page
+[winston] [22-09-10 14:17:12] info: GET /, fetching home page
+[winston] [22-09-10 14:17:13] info: GET /about, fetching home page
+[winston] [22-09-10 14:17:13] info: GET /, fetching home page
+[winston] [22-09-10 14:17:22] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 14:17:22] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 14:18:21] info: GET /, fetching home page
+[winston] [22-09-10 14:18:22] info: GET /about, fetching home page
+[winston] [22-09-10 14:18:23] info: GET /, fetching home page
+[winston] [22-09-10 14:18:24] info: GET /products/2, fetching product with id: 2
+[winston] [22-09-10 14:18:39] info: GET /about, fetching home page
+[winston] [22-09-10 14:18:40] info: GET /, fetching home page
+[winston] [22-09-10 14:18:41] info: GET /products/2, fetching product with id: 2
+[winston] [22-09-10 14:18:42] info: GET /, fetching home page
+[winston] [22-09-10 14:18:43] info: GET /, fetching home page
+[winston] [22-09-10 14:18:44] info: GET /products/2, fetching product with id: 2
+[winston] [22-09-10 14:18:51] info: GET /products/1, fetching product with id: 1
+[winston] [22-09-10 14:19:35] info: GET /products/1, fetching product with id: 1
+[winston] [22-09-10 14:20:10] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 14:20:10] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 14:20:13] info: GET /, fetching home page
+[winston] [22-09-10 14:20:14] info: GET /products/1, fetching product with id: 1
+[winston] [22-09-10 14:22:34] info: GET /products/2, fetching product with id: 2
+[winston] [22-09-10 14:23:15] info: GET /products/3, fetching product with id: 3
+[winston] [22-09-10 14:23:18] info: GET /, fetching home page
+[winston] [22-09-10 14:26:38] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 14:26:38] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 14:26:46] info: GET /, fetching home page
+[winston] [22-09-10 14:26:48] info: GET /products/1, fetching product with id: 1
+[winston] [22-09-10 14:26:50] info: GET /about, fetching home page
+[winston] [22-09-10 14:26:51] info: GET /, fetching home page
+[winston] [22-09-10 14:26:51] info: GET /about, fetching home page
+[winston] [22-09-10 14:26:52] info: GET /, fetching home page
+[winston] [22-09-10 14:26:52] info: GET /about, fetching home page
+[winston] [22-09-10 14:26:52] info: GET /, fetching home page
+[winston] [22-09-10 14:26:53] info: GET /about, fetching home page
+[winston] [22-09-10 14:26:53] info: GET /, fetching home page
+[winston] [22-09-10 14:26:54] info: GET /, fetching home page
+[winston] [22-09-10 14:26:55] info: GET /, fetching home page
+[winston] [22-09-10 14:26:55] info: GET /, fetching home page
+[winston] [22-09-10 14:26:56] info: GET /about, fetching home page
+[winston] [22-09-10 14:26:56] info: GET /, fetching home page
+[winston] [22-09-10 14:26:58] info: GET /products/4, fetching product with id: 4
+[winston] [22-09-10 14:27:02] info: GET /, fetching home page
+[winston] [22-09-10 14:27:05] info: GET /products/3, fetching product with id: 3
+[winston] [22-09-10 14:30:02] info: GET /, fetching home page
+[winston] [22-09-10 14:30:04] info: GET /products/2, fetching product with id: 2
+[winston] [22-09-10 14:30:59] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 14:30:59] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 14:31:51] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 14:31:51] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 14:31:54] info: GET /, fetching home page
+[winston] [22-09-10 14:31:54] info: GET /2, fetching product with id: 2
+[winston] [22-09-10 14:31:56] info: GET /, fetching home page
+[winston] [22-09-10 14:31:57] info: GET /3, fetching product with id: 3
+[winston] [22-09-10 14:31:58] info: GET /, fetching home page
+[winston] [22-09-10 14:31:58] info: GET /2, fetching product with id: 2
+[winston] [22-09-10 14:32:00] info: GET /, fetching home page
+[winston] [22-09-10 14:32:04] info: GET /3, fetching product with id: 3
+[winston] [22-09-10 14:32:04] info: GET /, fetching home page
+[winston] [22-09-10 14:32:05] info: GET /4, fetching product with id: 4
+[winston] [22-09-10 14:32:06] info: GET /, fetching home page
+[winston] [22-09-10 14:32:08] info: GET /6, fetching product with id: 6
+[winston] [22-09-10 14:32:10] info: GET /, fetching home page
+[winston] [22-09-10 14:32:20] info: GET /about, fetching home page
+[winston] [22-09-10 14:32:24] info: GET /, fetching home page
+[winston] [22-09-10 14:32:27] info: GET /3, fetching product with id: 3
+[winston] [22-09-10 14:32:28] info: GET /about, fetching home page
+[winston] [22-09-10 14:32:39] info: GET /, fetching home page
+[winston] [22-09-10 14:32:40] info: GET /2, fetching product with id: 2
+[winston] [22-09-10 14:32:40] info: GET /, fetching home page
+[winston] [22-09-10 14:32:41] info: GET /1, fetching product with id: 1
+[winston] [22-09-10 14:32:42] info: GET /, fetching home page
+[winston] [22-09-10 14:32:42] info: GET /3, fetching product with id: 3
+[winston] [22-09-10 14:32:43] info: GET /, fetching home page
+[winston] [22-09-10 14:32:44] info: GET /4, fetching product with id: 4
+[winston] [22-09-10 14:32:45] info: GET /, fetching home page
+[winston] [22-09-10 14:32:46] info: GET /6, fetching product with id: 6
+[winston] [22-09-10 14:32:47] info: GET /, fetching home page
+[winston] [22-09-10 14:32:53] info: GET /2, fetching product with id: 2
+[winston] [22-09-10 14:33:11] info: GET /, fetching home page
+[winston] [22-09-10 14:33:11] info: GET /, fetching home page
+[winston] [22-09-10 15:15:48] info: GET /1, fetching product with id: 1
+[winston] [22-09-10 15:15:49] info: GET /, fetching home page
+[winston] [22-09-10 15:15:49] info: GET /2, fetching product with id: 2
+[winston] [22-09-10 15:15:50] info: GET /, fetching home page
+[winston] [22-09-10 15:15:53] info: GET /14, fetching product with id: 14
+[winston] [22-09-10 15:15:54] info: GET /, fetching home page
+[winston] [22-09-10 15:15:55] info: GET /3, fetching product with id: 3
+[winston] [22-09-10 15:15:55] info: GET /, fetching home page
+[winston] [22-09-10 15:15:56] info: GET /2, fetching product with id: 2
+[winston] [22-09-10 15:15:57] info: GET /, fetching home page
+[winston] [22-09-10 15:17:00] info: GET /2, fetching product with id: 2
+[winston] [22-09-10 15:17:01] info: GET /, fetching home page
+[winston] [22-09-10 15:17:01] info: GET /about, fetching home page
+[winston] [22-09-10 15:17:02] info: GET /, fetching home page
+[winston] [22-09-10 15:17:03] info: GET /about, fetching home page
+[winston] [22-09-10 15:23:02] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 15:23:02] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 15:23:30] info: GET /, fetching home page
+[winston] [22-09-10 15:23:39] info: GET /2, fetching product with id: 2
+[winston] [22-09-10 15:23:46] info: GET /, fetching home page
+[winston] [22-09-10 15:23:48] info: GET /about, fetching home page
+[winston] [22-09-10 15:23:52] info: GET /, fetching home page
+[winston] [22-09-10 15:23:52] info: GET /, fetching home page
+[winston] [22-09-10 15:24:17] info: GET /, fetching home page
+[winston] [22-09-10 15:24:18] info: GET /2, fetching product with id: 2
+[winston] [22-09-10 15:24:50] info: GET /, fetching home page
+[winston] [22-09-10 15:24:51] info: GET /about, fetching home page
+[winston] [22-09-10 15:24:51] info: GET /, fetching home page
+[winston] [22-09-10 15:24:52] info: GET /2, fetching product with id: 2
+[winston] [22-09-10 15:24:53] info: GET /, fetching home page
+[winston] [22-09-10 15:24:54] info: GET /, fetching home page
+[winston] [22-09-10 15:24:58] info: GET /10, fetching product with id: 10
+[winston] [22-09-10 17:17:32] info: GET /, fetching home page
+[winston] [22-09-10 17:17:33] info: GET /cart, fetching product with id: cart
+[winston] [22-09-10 17:18:05] info: GET /, fetching home page
+[winston] [22-09-10 17:18:06] info: GET /, fetching home page
+[winston] [22-09-10 17:18:06] info: GET /, fetching home page
+[winston] [22-09-10 17:19:46] info: GET /, fetching home page
+[winston] [22-09-10 17:19:46] info: GET /, fetching home page
+[winston] [22-09-10 17:19:48] info: GET /cart, fetching product with id: cart
+[winston] [22-09-10 17:19:51] info: GET /cart, fetching product with id: cart
+[winston] [22-09-10 17:22:36] info: GET /, fetching home page
+[winston] [22-09-10 17:23:13] info: GET /, fetching home page
+[winston] [22-09-10 17:23:47] info: GET /cart, fetching product with id: cart
+[winston] [22-09-10 17:25:06] info: GET /, fetching home page
+[winston] [22-09-10 17:25:08] info: GET /cart, fetching product with id: cart
+[winston] [22-09-10 17:25:09] info: GET /cart, fetching product with id: cart
+[winston] [22-09-10 17:25:24] info: GET /, fetching home page
+[winston] [22-09-10 17:27:03] info: GET /, fetching home page
+[winston] [22-09-10 17:27:07] info: GET /2, fetching product with id: 2
+[winston] [22-09-10 18:02:31] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 18:02:31] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 18:02:36] info: GET /, fetching home page
+[winston] [22-09-10 18:02:40] info: GET /, fetching home page
+[winston] [22-09-10 18:05:39] info: GET /, fetching home page
+[winston] [22-09-10 18:05:59] info: GET /, fetching home page
+[winston] [22-09-10 18:06:00] info: GET /, fetching home page
+[winston] [22-09-10 18:06:00] info: GET /, fetching home page
+[winston] [22-09-10 18:06:01] info: GET /, fetching home page
+[winston] [22-09-10 18:06:33] info: GET /, fetching home page
+[winston] [22-09-10 18:06:54] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 18:06:54] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 18:06:57] info: GET /, fetching home page
+[winston] [22-09-10 18:06:59] info: GET /2, fetching product with id: 2
+[winston] [22-09-10 18:07:01] info: GET /3, fetching product with id: 3
+[winston] [22-09-10 18:07:02] info: GET /2, fetching product with id: 2
+[winston] [22-09-10 18:07:04] info: GET /3, fetching product with id: 3
+[winston] [22-09-10 18:08:40] info: GET /1, fetching product with id: 1
+[winston] [22-09-10 18:08:57] info: GET /about, fetching home page
+[winston] [22-09-10 18:09:23] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 18:09:23] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 18:09:25] info: GET /, fetching home page
+[winston] [22-09-10 18:09:26] info: GET /about, fetching home page
+[winston] [22-09-10 18:09:28] info: GET /about, fetching home page
+[winston] [22-09-10 18:09:30] info: GET /about, fetching home page
+[winston] [22-09-10 18:09:32] info: GET /1, fetching product with id: 1
+[winston] [22-09-10 18:11:42] info: Server running on: 192.168.0.13:5000.
+[winston] [22-09-10 18:11:42] info: You can open http://localhost:5000 in your browser.
+[winston] [22-09-10 18:11:46] info: GET /, fetching home page
+[winston] [22-09-10 18:11:47] info: GET /2, fetching product with id: 2
+[winston] [22-09-10 18:11:48] info: GET /about, fetching home page
